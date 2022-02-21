@@ -1,6 +1,12 @@
-# p2-fiber
+# Demo2 - Fiber Landing and Account Pages
 
-## Project setup
+Codewell's second code challenge
+
+https://www.codewell.cc/challenges/fiber-landing-page--608a7e639691700015db16d1
+
+## Technical instructions to run the project
+
+### Project setup
 ```
 npm install
 ```

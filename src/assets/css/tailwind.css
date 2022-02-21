@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .card-container {
+        @apply p-6 border-2 border-gray-200 rounded
+    }
+    .card-container-title { 
+        @apply text-sm pl-4 flex flex-col justify-center
+    }
+    .card-text-name {
+        @apply leading-none text-purple-800 font-extrabold
+    }
+    .card-button {
+        @apply py-4 w-full
+        border border-gray-200
+        rounded
+        text-purple-800
+        font-bold
+    }
+}
